@@ -38,27 +38,25 @@ Welcome to my web development portfolio! This repository showcases a variety of 
 ## How to Run the Projects / Cómo Ejecutar los Proyectos
 
 1. **Clone the repository / Clona el repositorio**:
-   git clone https://github.com/your-username/your-repo-name.git
+   ```git clone https://github.com/your-username/your-repo-name.git```
 
 2.**Set up a local server (for PHP projects) / Configura un servidor local (para proyectos PHP)**:
-
-    Use XAMPP, WAMP, or any local server to run the PHP files / Usa XAMPP, WAMP o cualquier servidor local para ejecutar los archivos PHP.
-
-    Ensure the MySQL database is set up with the provided schema / Asegúrate de que la base de datos MySQL esté configurada con el esquema proporcionado.
+Use XAMPP, WAMP, or any local server to run the PHP files / Usa XAMPP, WAMP o cualquier servidor local para ejecutar los archivos PHP.
+Ensure the MySQL database is set up with the provided schema / Asegúrate de que la base de datos MySQL esté configurada con el esquema proporcionado.
 
 3.**Open the HTML files / Abre los archivos HTML**:
 
-    For JavaScript and API projects, simply open the .html files in your browser / Para los proyectos de JavaScript y APIs, simplemente abre los archivos .html en tu navegador.
+For JavaScript and API projects, simply open the .html files in your browser / Para los proyectos de JavaScript y APIs, simplemente abre los archivos .html en tu navegador.
 
 4.**Technologies Used / Tecnologías Utilizadas**
 
-    Front-end: HTML, CSS, JavaScript, SVG, Canvas.
+Front-end: HTML, CSS, JavaScript, SVG, Canvas.
 
-    Back-end: PHP, MySQL.
+Back-end: PHP, MySQL.
 
-    Libraries / Librerías: Google Charts, CanvasJS, D3.js.
+Libraries / Librerías: Google Charts, CanvasJS, D3.js.
 
-    APIs: OpenWeatherMap API.
+APIs: OpenWeatherMap API.
 
 License / Licencia
 
