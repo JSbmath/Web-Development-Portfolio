@@ -39,9 +39,9 @@ Welcome to my web development portfolio! This repository showcases a variety of 
 
 ## Important Note / Nota Importante
 
-This portfolio is hosted on **GitHub Pages**, which only supports static content (HTML, CSS, JavaScript). As a result, the following features will not work directly on the live site:
+This portfolio is hosted on **Vercel**, which only supports static content (HTML, CSS, JavaScript). As a result, the following features will not work directly on the live site:
 
-Este portafolio está alojado en **GitHub Pages**, que solo soporta contenido estático (HTML, CSS, JavaScript). Como resultado, las siguientes funcionalidades no funcionarán directamente en el sitio en vivo:
+Este portafolio está alojado en **Vercel**, que solo soporta contenido estático (HTML, CSS, JavaScript). Como resultado, las siguientes funcionalidades no funcionarán directamente en el sitio en vivo:
 
 - **D3 Charts** and **Other Libraries Charts**: These rely on PHP to fetch data from a MySQL database. Since GitHub Pages does not support PHP, clicking on these links will prompt you to download the `.php` files instead of displaying the charts.
 
