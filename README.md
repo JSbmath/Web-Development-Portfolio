@@ -34,30 +34,27 @@ Welcome to my web development portfolio! This repository showcases a variety of 
      - `objectcanvas/index.html`: A canvas-based animation with a background image and music / Una animación basada en canvas con una imagen de fondo y música.
      - `svg/svg.html`: An SVG animation with interactive circles / Una animación SVG con círculos interactivos.
    - **Technologies / Tecnologías**: HTML5 Canvas, SVG, JavaScript.
+## Important Note / Nota Importante
 
-## How to Run the Projects / Cómo Ejecutar los Proyectos
+This portfolio is hosted on **GitHub Pages**, which only supports static content (HTML, CSS, JavaScript). As a result, the following features will not work directly on the live site:
 
-1. **Clone the repository / Clona el repositorio**:
-   ```git clone https://github.com/your-username/your-repo-name.git```
+Este portafolio está alojado en **GitHub Pages**, que solo soporta contenido estático (HTML, CSS, JavaScript). Como resultado, las siguientes funcionalidades no funcionarán directamente en el sitio en vivo:
 
-2.**Set up a local server (for PHP projects) / Configura un servidor local (para proyectos PHP)**:
-Use XAMPP, WAMP, or any local server to run the PHP files / Usa XAMPP, WAMP o cualquier servidor local para ejecutar los archivos PHP.
-Ensure the MySQL database is set up with the provided schema / Asegúrate de que la base de datos MySQL esté configurada con el esquema proporcionado.
+- **D3 Charts** and **Other Libraries Charts**: These rely on PHP to fetch data from a MySQL database. Since GitHub Pages does not support PHP, clicking on these links will prompt you to download the `.php` files instead of displaying the charts.
 
-3.**Open the HTML files / Abre los archivos HTML**:
+- **Gráficos D3** y **Otras Librerías de Gráficos**: Estos dependen de PHP para obtener datos de una base de datos MySQL. Dado que GitHub Pages no soporta PHP, al hacer clic en estos enlaces se te pedirá que descargues los archivos `.php` en lugar de mostrar los gráficos.
 
-For JavaScript and API projects, simply open the .html files in your browser / Para los proyectos de JavaScript y APIs, simplemente abre los archivos .html en tu navegador.
+To view these features, you will need to run the project locally using a server that supports PHP (e.g., XAMPP, WAMP).
 
-4.**Technologies Used / Tecnologías Utilizadas**
+Para ver estas funcionalidades, necesitarás ejecutar el proyecto localmente usando un servidor que soporte PHP (por ejemplo, XAMPP, WAMP).
 
-Front-end: HTML, CSS, JavaScript, SVG, Canvas.
+## Technologies Used / Tecnologías Utilizadas
 
-Back-end: PHP, MySQL.
+- **Front-end**: HTML, CSS, JavaScript, SVG, Canvas.
+- **Back-end**: PHP, MySQL.
+- **Libraries / Librerías**: Google Charts, CanvasJS, D3.js.
+- **APIs**: OpenWeatherMap API.
 
-Libraries / Librerías: Google Charts, CanvasJS, D3.js.
+## License / Licencia
 
-APIs: OpenWeatherMap API.
-
-License / Licencia
-
-This project is open-source and available under the MIT License / Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
+This project is open-source and available under the [MIT License](LICENSE) / Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LICENSE).
