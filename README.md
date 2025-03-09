@@ -4,6 +4,8 @@ Welcome to my web development portfolio! This repository showcases a variety of 
 
 ¡Bienvenido a mi portafolio de desarrollo web! Este repositorio muestra una variedad de proyectos que demuestran mis habilidades en desarrollo front-end y back-end, incluyendo JavaScript, PHP, integración de APIs y visualización de datos.
 
+You can view this portfolio at: / Puedes ver este portafolio en: **[Web Development Portfolio](https://jsbmath.github.io/Web-Development-Portfolio/)**  
+
 ## Projects Included / Proyectos Incluidos
 
 ### 1. **Data Visualization with PHP and Charts / Visualización de Datos con PHP y Gráficos**
@@ -34,10 +36,6 @@ Welcome to my web development portfolio! This repository showcases a variety of 
      - `objectcanvas/index.html`: A canvas-based animation with a background image and music / Una animación basada en canvas con una imagen de fondo y música.
      - `svg/svg.html`: An SVG animation with interactive circles / Una animación SVG con círculos interactivos.
    - **Technologies / Tecnologías**: HTML5 Canvas, SVG, JavaScript.
-
-You can view this portfolio at: **[Web Development Portfolio](https://jsbmath.github.io/Web-Development-Portfolio/)**  
-
-Puedes ver este portafolio en: **[Portafolio de Desarrollo Web](https://jsbmath.github.io/Web-Development-Portfolio/)**  
 
 ## Important Note / Nota Importante
 
