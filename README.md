@@ -58,6 +58,3 @@ Para ver estas funcionalidades, necesitarás ejecutar el proyecto localmente usa
 - **Libraries / Librerías**: Google Charts, CanvasJS, D3.js.
 - **APIs**: OpenWeatherMap API.
 
-## License / Licencia
-
-This project is open-source and available under the [MIT License](LICENSE) / Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LICENSE).
